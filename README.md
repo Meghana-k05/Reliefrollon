@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,8 +8,8 @@
         @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
         body {
             font-family: 'Poppins', sans-serif;
-            background-color: #f3e5f5;
-            color: #4a148c;
+            background-color: #f5f1fa;
+            color: #333;
             text-align: center;
             margin: 0;
             padding: 0;
@@ -19,9 +19,9 @@
             justify-content: center;
             gap: 40px;
             padding: 15px;
-            background: #6a1b9a;
+            background: #6a0dad;
             font-size: 1.2rem;
-            border-bottom: 4px solid #e1bee7;
+            border-bottom: 4px solid #e9c46a;
         }
         .top-header a {
             color: #ffffff;
@@ -30,14 +30,14 @@
             transition: color 0.3s ease;
         }
         .top-header a:hover {
-            color: #e1bee7;
+            color: #e9c46a;
         }
         header {
             font-size: 2.8rem;
             font-weight: bold;
             padding: 25px;
-            background: #f3e5f5;
-            color: #6a1b9a;
+            background: #f5f1fa;
+            color: #6a0dad;
             text-transform: uppercase;
         }
         .products-container {
@@ -63,7 +63,7 @@
             border-radius: 15px;
         }
         .buy-btn {
-            background: #6a1b9a;
+            background: #6a0dad;
             color: #ffffff;
             padding: 12px 25px;
             border: none;
@@ -73,7 +73,7 @@
             transition: background 0.3s ease;
         }
         .buy-btn:hover {
-            background: #4a148c;
+            background: #530c89;
         }
     </style>
 </head>
@@ -94,21 +94,21 @@
         <h2>Our Products</h2>
         <div class="products-container">
             <div class="product-box">
-                <img src="peppermint rollon.jpg" alt="Peppermint Roll-On">
+                <img src="https://i.postimg.cc/wx0tk3Nj/peppermint-rollon.jpg" alt="Peppermint Roll-On">
                 <h3>Peppermint Roll-On</h3>
                 <p>Cool and refreshing, this roll-on helps ease headaches and tension.</p>
                 <p class="price">₹200</p>
                 <button class="buy-btn">Buy Now</button>
             </div>
             <div class="product-box">
-                <img src="lavender rollon.jpg" alt="Lavender Roll-On">
+                <img src="https://i.postimg.cc/JndsM2MB/lavender-rollon.jpg" alt="Lavender Roll-On">
                 <h3>Lavender Roll-On</h3>
                 <p>Calming lavender to help reduce stress-related headaches.</p>
                 <p class="price">₹180</p>
                 <button class="buy-btn">Buy Now</button>
             </div>
             <div class="product-box">
-                <img src="eucalyptus rollon.jpg" alt="Eucalyptus Roll-On">
+                <img src="https://i.postimg.cc/63K0CTvh/eucalyptus-rollon.jpg" alt="Eucalyptus Roll-On">
                 <h3>Eucalyptus Roll-On</h3>
                 <p>Refreshing eucalyptus for sinus relief and headache comfort.</p>
                 <p class="price">₹220</p>
