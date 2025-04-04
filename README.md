@@ -94,7 +94,7 @@
         <h2>Our Products</h2>
         <div class="products-container">
             <div class="product-box">
-                <img src="https://i.postimg.cc/wx0tk3Nj/peppermint-rollon.jpg" alt="Peppermint Roll-On">
+                <img src="https://i.postimg.cc/k48rwTfd/peppermint-roll-on.jpg" alt="Peppermint Roll-On">
                 <h3>Peppermint Roll-On</h3>
                 <p>Cool and refreshing, this roll-on helps ease headaches and tension.</p>
                 <p class="price">₹200</p>
